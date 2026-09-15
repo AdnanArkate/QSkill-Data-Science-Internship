@@ -66,8 +66,8 @@ The project includes:
 QSkill-Data-Science-Internship/
 │
 ├── QSkill_Task1_Retail_Sales_Analysis.ipynb
-├── superstore.csv
-└── README.md
+├── README.md
+└── superstore.csv
 ```
 
 # Conclusion
