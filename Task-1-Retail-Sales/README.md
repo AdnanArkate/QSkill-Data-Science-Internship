@@ -63,7 +63,7 @@ The project includes:
 # Files
 
 ```text
-QSkill-Data-Science-Internship/
+Task-1-Retail-Sales/
 │
 ├── QSkill_Task1_Retail_Sales_Analysis.ipynb
 ├── README.md
