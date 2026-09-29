@@ -21,10 +21,6 @@ It contains information about:
 
 The dataset is used to calculate RFM values and perform customer segmentation.
 
-Dataset file used in this project:
-
-`OnlineRetail.csv`
-
 ## Tools and Libraries Used
 
 * Python
@@ -72,9 +68,10 @@ The project includes:
 Task-3-Customer-Segmentation/
 │
 ├── QSkill_Task3_Customer_Segmentation.ipynb
-├── OnlineRetail.csv
 └── README.md
 ```
+
+The Online Retail dataset is loaded directly from its public source in the notebook.
 
 ## Conclusion
 
