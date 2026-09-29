@@ -68,8 +68,8 @@ The project includes:
 Task-2-Student-Performance/
 │
 ├── QSkill_Task2_Student_Performance_Analysis.ipynb
-├── StudentPerformanceFactors.csv
-└── README.md
+├── README.md
+└── StudentPerformanceFactors.csv
 ```
 
 ## Conclusion
