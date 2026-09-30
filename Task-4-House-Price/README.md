@@ -62,12 +62,16 @@ The SalePrice column is used as the target variable for prediction.
 * Correlation heatmap
 * Actual vs Predicted prices
 
+
 ## Files
 
+```text
 Task-4-House-Price/
 ├── QSkill_Task4_House_Price_Analysis.ipynb
 ├── train.csv
 └── README.md
+```
+
 
 ## Conclusion
 
