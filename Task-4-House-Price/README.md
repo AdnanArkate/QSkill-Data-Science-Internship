@@ -68,8 +68,8 @@ The SalePrice column is used as the target variable for prediction.
 ```text
 Task-4-House-Price/
 ├── QSkill_Task4_House_Price_Analysis.ipynb
-├── train.csv
-└── README.md
+├── README.md
+└── train.csv
 ```
 
 
